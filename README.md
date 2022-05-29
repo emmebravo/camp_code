@@ -6,4 +6,4 @@ My main reason for being part of this cmap is because I want to eventually move 
 
 You're welcome to follow, but as a whole is just me "learning in the open."
 
-#### feeling proud I made this repository all from within my terminal, and currently editing this on Vim. I take pride in the smallest things lol
+###### feeling proud I made this repository all from within my terminal, and currently editing this on Vim. I take pride in the smallest things lol
