@@ -1,4 +1,7 @@
-// variables are used to store info to be referenced and manipulated in a computer program. they also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the treader and ourselves. it is helpful to think of variables as containers that hold information. their sole purpose is ot label and store data in memory. this data can then be used throughout your program.
+// variables are used to store info to be referenced and manipulated in a computer program.
+// they also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly
+// by the treader and ourselves. it is helpful to think of variables as containers that hold information.
+// their sole purpose is ot label and store data in memory. this data can then be used throughout your program.
 
 package main
 
